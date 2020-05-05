@@ -1,7 +1,7 @@
 ---
 layout: page
-title:
-permalink: /about
+title: Research
+permalink: /research/
 ---
 
-I am a Ph.D Candidate in Sociology at the University of California, Berkeley. I research the intersection of work, culture, and inequality using quantitative methods and computational text analysis. My dissertation focuses on how individuals conceptualize themselves and others in the workplace, and how these conceptions are dependent on working conditions, inequality, and social movements.
+#Publications
