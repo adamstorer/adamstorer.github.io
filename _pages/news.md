@@ -4,7 +4,7 @@ title: In The News
 permalink: /news/
 ---
 
-* In February 2021, I published a blog post on the _Work In Progress_ blog title [What explains racial/ethnic inequality in job quality for low-wage frontline workers in the service sector?](http://www.wipsociology.org/2021/02/11/what-explains-racial-ethnic-inequality-in-job-quality-for-low-wage-frontline-workers-in-the-service-sector/?utm_source=rss&utm_medium=rss&utm_campaign=what-explains-racial-ethnic-inequality-in-job-quality-for-low-wage-frontline-workers-in-the-service-sector)
+* In February 2021, I published a post on the _Work In Progress_ blog titled [What explains racial/ethnic inequality in job quality for low-wage frontline workers in the service sector?](http://www.wipsociology.org/2021/02/11/what-explains-racial-ethnic-inequality-in-job-quality-for-low-wage-frontline-workers-in-the-service-sector/?utm_source=rss&utm_medium=rss&utm_campaign=what-explains-racial-ethnic-inequality-in-job-quality-for-low-wage-frontline-workers-in-the-service-sector)
 
 * In February 2021, my research was featured in the _Stanford Social Innovation Review_ article titled [Precarious Scheduling in the Service Sector](https://ssir.org/articles/entry/precarious_scheduling_in_the_service_sector)
 
