@@ -3,7 +3,7 @@ layout: default
 title: News
 permalink: /news/
 ---
-* In July 2022, my research entitle "Workplace Stratification of Scheduling Practices as a Source of Social Comparison" was selected for a Best Paper award from the Academy of Management.  [A 6-page abridged version of this paper is available in 2022's Annual Meeting _Proceedings_](https://shift.hks.harvard.edu/wp-content/uploads/2021/07/Early-Career-Workers-in-Service-Sector-July-2021-1.pdf)
+* In July 2022, my research entitle "Workplace Stratification of Scheduling Practices as a Source of Social Comparison" was selected for a Best Paper award from the Academy of Management.  [A 6-page abridged version of this paper is available in 2022's Annual Meeting _Proceedings_](https://journals.aom.org/doi/abs/10.5465/AMBPP.2022.54)
 
 * In July 2021, I published a research brief with Kristen Harknett and Daniel Schneider on [Early Career Workers in the Service Sector?](https://shift.hks.harvard.edu/wp-content/uploads/2021/07/Early-Career-Workers-in-Service-Sector-July-2021-1.pdf)
 
