@@ -1,8 +1,11 @@
 ---
 layout: default
-title: In The News
+title: News
 permalink: /news/
 ---
+* In July 2022, my research entitle "Workplace Stratification of Scheduling Practices as a Source of Social Comparison" was selected for a Best Paper award from the Academy of Management.  [A 6-page abridged version of this paper is available in 2022's Annual Meeting _Proceedings_](https://shift.hks.harvard.edu/wp-content/uploads/2021/07/Early-Career-Workers-in-Service-Sector-July-2021-1.pdf)
+
+* In July 2021, I published a research brief with Kristen Harknett and Daniel Schneider on [Early Career Workers in the Service Sector?](https://shift.hks.harvard.edu/wp-content/uploads/2021/07/Early-Career-Workers-in-Service-Sector-July-2021-1.pdf)
 
 * In February 2021, I published a post on the _Work In Progress_ blog titled [What explains racial/ethnic inequality in job quality for low-wage frontline workers in the service sector?](http://www.wipsociology.org/2021/02/11/what-explains-racial-ethnic-inequality-in-job-quality-for-low-wage-frontline-workers-in-the-service-sector/?utm_source=rss&utm_medium=rss&utm_campaign=what-explains-racial-ethnic-inequality-in-job-quality-for-low-wage-frontline-workers-in-the-service-sector)
 

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Peer-Reviewed Publications
 permalink: /research/
 ---
 

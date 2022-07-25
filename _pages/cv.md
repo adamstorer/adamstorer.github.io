@@ -4,4 +4,4 @@ permalink: /cv/
 sitemap: false
 ---
 
-Download my CV [here.](https://sociology.berkeley.edu/sites/default/files/user/adam-storer-1085/adam-storer-cv_6.pdf)
+Download my CV [here.](https://sociology.berkeley.edu/sites/default/files/user/adam-storer-1085/adam-storer-cv_0.pdf)
